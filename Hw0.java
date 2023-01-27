@@ -1,3 +1,5 @@
+package com.gradescope.hw0;
+
 //imports
 import java.util.Arrays;
 
